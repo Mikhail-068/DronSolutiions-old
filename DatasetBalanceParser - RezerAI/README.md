@@ -21,7 +21,7 @@
 
 Парсер выполнен в виде класса DatasetBalanceParser(). Для создания экземпляра класса в него необходимо подать список с именами классов, путь к папке с аннотациями датасета в формате Yolo, путь к папке с изображениями. 
 
-\___init___(self, classes_names_list, source_annotations_path, source_images_path)
+\___init__\_(self, classes_names_list, source_annotations_path, source_images_path)
 
 Основные методы, необходимые для работы парсера:
 
